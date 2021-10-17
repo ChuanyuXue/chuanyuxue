@@ -1,4 +1,4 @@
-## Welcome to my github page 🏂
+## Hi, I'm Chuanyu🏂
 
 🧑🏽‍💻 I am currently working on following the projects:
 
