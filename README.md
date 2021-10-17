@@ -1,4 +1,4 @@
-## Hi there🏂
+## Hi there!
 
 🧑🏽‍💻 I am currently working on the following projects:
 
