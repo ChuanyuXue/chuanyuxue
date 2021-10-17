@@ -1,5 +1,3 @@
-### Hi there 👋
-
 🧑🏽‍💻 I am currently working on following projects:
 
 - 🔬 Virtualization of Cyber Physical System
