@@ -1,6 +1,6 @@
 ## Hi, I'm Chuanyu🏂
 
-🧑🏽‍💻 I am currently working on following the projects:
+🧑🏽‍💻 I am currently working on the following projects:
 
 - 🔬 Virtualization of Cyber Physical System
 - 🪐 [RETHi](https://www.purdue.edu/rethi): Developing Resilient Extra-Terrestrial Habita
