@@ -1,4 +1,4 @@
-## Hi, I'm Chuanyu🏂
+## Hi there🏂
 
 🧑🏽‍💻 I am currently working on the following projects:
 
