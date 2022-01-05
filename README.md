@@ -1,8 +1,6 @@
 ## Hi there!
 
-🧑🏽‍💻 My research interests focus on Real-Time Systems. 
-
-Follows are projects that I am currenctly working on:
+🧑🏽‍💻 I am currently working on the following projects:
 
 - 🔬 [Virtualization of Cyber Physical System](https://chuanyuxue.github.io/Papers/)
 - 🪐 [NASA-RETHi](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat \[Currently Private\]
