@@ -7,7 +7,7 @@
     2. [RPiTSN](https://github.com/ChuanyuXue/RPiTSN): Deterministic End-station for Linux-based Ethernet Communication
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
-🤷 I also made some small projects
+🤷 I also made some small projects:
 - 🧸 [Learning Python the Smart Way](https://github.com/datawhalechina/learn-python-the-smart-way): An efficient and joyful way to learn Python language \[中文\]
 - 🐶 [doit4u](https://github.com/ChuanyuXue/doit4u): ChatGPT based natural language hybrid Python programming
 - 🦭 [sealhacker](https://github.com/ChuanyuXue/sealhacker): Extracting seal with Python OpenCV.
