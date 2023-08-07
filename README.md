@@ -14,3 +14,4 @@
 - 🦭 [sealhacker](https://github.com/ChuanyuXue/sealhacker): Extracting seal with Python OpenCV.
 - 📈 [udp-latency](https://github.com/ChuanyuXue/udp-latency): A tiny end-to-end latency testing tool implemented by UDP protocol in Python
 - 📐 [mvtest](https://github.com/ChuanyuXue/MVTest): A Distribution-Free Test of Independence Based on Mean Variance Index
+- 🎨 [Morandi palette](https://gist.github.com/ChuanyuXue/3a377f7c1629b0ce68bc6b393340d0fb): 18 colors palette inspired by Giorgio Morandi
