@@ -4,8 +4,8 @@
 
 - 🔬 Research on Time-Sensitive Networking: 
     1. [Learn-TSN](https://github.com/ChuanyuXue/learn-TSN): All you need to know about TSN
-    2. [RPiTSN](https://github.com/ChuanyuXue/RPiTSN): Deterministic End-station for Linux-based Ethernet Communication
-    3. [TTTechTSN](https://github.com/ChuanyuXue/TTTech-TSN): On board agent for TTTech TSN Evaluation Board
+    2. [RPiTSN](https://github.com/ChuanyuXue/RPiTSN): A Low-Cost, Real-Time End-Station for Time-Sensitive Networking
+    3. [TTTechTSN](https://github.com/ChuanyuXue/TTTech-TSN): Online TSN testbed based on TTTech TSN Evaluation Board
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
 🤷 I also made some small projects:
