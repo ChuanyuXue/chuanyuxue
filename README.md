@@ -3,7 +3,7 @@
 🧑🏽‍💻 I am currently working on the following projects:
 
 - 🔬 Research on Time-Sensitive Networking: 
-    1. [Learn-TSN](https://github.com/ChuanyuXue/learn-TSN): All you need to know about TSN
+    1. [TSNKit](https://github.com/ChuanyuXue/tsnkit): A simple scheduling toolkit and benchmark for Time-Sensitive Networking.
     2. [RPiTSN](https://github.com/ChuanyuXue/RPiTSN): A Low-Cost, Real-Time End-Station for Time-Sensitive Networking
     3. [TTTechTSN](https://github.com/ChuanyuXue/TTTech-TSN): Online TSN testbed based on TTTech TSN Evaluation Board
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
