@@ -15,3 +15,6 @@
 - 🐶 [doit4u](https://github.com/ChuanyuXue/doit4u): ChatGPT based natural language hybrid Python programming
 - 🦭 [sealhacker](https://github.com/ChuanyuXue/sealhacker): Extracting seal with Python OpenCV.
 - 🎨 [Morandi palette](https://gist.github.com/ChuanyuXue/3a377f7c1629b0ce68bc6b393340d0fb): 18 colors palette inspired by Giorgio Morandi
+
+
+[![Chuanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ChuanyuXue/github-readme-stats)
