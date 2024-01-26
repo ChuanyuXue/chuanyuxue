@@ -17,4 +17,4 @@
 - 🎨 [Morandi palette](https://gist.github.com/ChuanyuXue/3a377f7c1629b0ce68bc6b393340d0fb): 18 colors palette inspired by Giorgio Morandi
 
 
-[![Chuanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuanyuXue)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/chuanyuxue/chuanyuxue/blob/output/github-contribution-grid-snake.svg)
