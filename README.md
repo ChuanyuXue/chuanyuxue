@@ -2,13 +2,12 @@
 
 🧑🏽‍💻 I am currently working on the following projects:
 
-- 🔬 Research on Time-Sensitive Networking: 
+- 🔬 R&D on Time-Sensitive Networking: 
     1. [TSNKit](https://github.com/ChuanyuXue/tsnkit): A simple scheduling toolkit and benchmark for Time-Sensitive Networking.
-    2. [RPiTSN](https://github.com/ChuanyuXue/RPiTSN): A Low-Cost, Real-Time End-Station for Time-Sensitive Networking
-    3. [TTTechTSN](https://github.com/ChuanyuXue/TTTech-TSN): Online TSN testbed based on TTTech TSN Evaluation Board
+    2. [RtGen](https://github.com/ChuanyuXue/RPiTSN): A Low-Cost, Real-Time End-Station for Time-Sensitive Networking
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
-🤷 I have also made some small tools:
+🤷 Some small tools from me:
 - 🧸 [Learning Python the Smart Way](https://github.com/datawhalechina/learn-python-the-smart-way): An efficient and joyful way to learn Python language \[中文\]
 - 📈 [udp-latency](https://github.com/ChuanyuXue/udp-latency): A tiny end-to-end latency testing tool implemented by UDP protocol in Python
 - 📐 [mvtest](https://github.com/ChuanyuXue/MVTest): A Distribution-Free Test of Independence Based on Mean Variance Index
