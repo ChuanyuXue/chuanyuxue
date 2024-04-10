@@ -4,7 +4,7 @@
 
 - 🔬 R&D on Time-Sensitive Networking: 
     1. [TSNKit](https://github.com/ChuanyuXue/tsnkit): A simple scheduling toolkit and benchmark for Time-Sensitive Networking.
-    2. [RtGen](https://github.com/ChuanyuXue/RPiTSN): A Low-Cost, Real-Time End-Station for Time-Sensitive Networking
+    2. [RtGen](https://github.com/ChuanyuXue/RPiTSN): A deterministic traffic generator based on kernel/DPDK and NIC offloading function.
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
 🤷 Some small tools from me:
