@@ -7,7 +7,7 @@
     2. [RtGen-TC](https://github.com/ChuanyuXue/RPiTSN)/[RtGen-DPDK](https://github.com/ChuanyuXue/rtgen-dpdk): A deterministic traffic generator based on kernel/DPDK and NIC offloading function.
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
-🤷 Some small tools from me:
+🤷 Some small projects from me:
 - 🧸 [Learning Python the Smart Way](https://github.com/datawhalechina/learn-python-the-smart-way): An efficient and joyful way to learn Python language \[中文\]
 - 📈 [udp-latency](https://github.com/ChuanyuXue/udp-latency): A tiny end-to-end latency testing tool implemented by UDP protocol in Python
 - 📐 [mvtest](https://github.com/ChuanyuXue/MVTest): A Distribution-Free Test of Independence Based on Mean Variance Index
