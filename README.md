@@ -8,7 +8,7 @@
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
 🤷 Some small projects from me:
-- 🍋 [Fruittoeat](https://apps.apple.com/us/app/fruittoeat/id6499253474): An ios App helps you track and decide what fruit to eat
+- 🍋 [Fruittoeat](https://apps.apple.com/us/app/fruittoeat/id6499253474): An ios APP helps you track and decide what fruit to eat
 - 🧸 [Learning Python the Smart Way](https://github.com/datawhalechina/learn-python-the-smart-way): An efficient and joyful way to learn Python language \[中文\]
 - 📈 [udp-latency](https://github.com/ChuanyuXue/udp-latency): A tiny end-to-end latency testing tool implemented by UDP protocol in Python
 - 📐 [mvtest](https://github.com/ChuanyuXue/MVTest): A Distribution-Free Test of Independence Based on Mean Variance Index
