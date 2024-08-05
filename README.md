@@ -14,7 +14,7 @@
 - 📐 [mvtest](https://github.com/ChuanyuXue/MVTest): A Distribution-Free Test of Independence Based on Mean Variance Index
 - 🐶 [doit4u](https://github.com/ChuanyuXue/doit4u): ChatGPT based natural language hybrid Python programming
 - 🦭 [sealhacker](https://github.com/ChuanyuXue/sealhacker): Extracting seal with Python OpenCV.
-- 🎨 [Morandi palette](https://gist.github.com/ChuanyuXue/3a377f7c1629b0ce68bc6b393340d0fb): 18 colors palette inspired by Giorgio Morandi
+- 🎨 [Morandi palette](https://medium.com/@skewcy/hackers-and-painters-crafting-an-academic-color-palette-inspired-by-giorgio-morandi-c1cb792f8b74): 18 colors palette inspired by Giorgio Morandi
 
 
 ![Snake animation](https://github.com/chuanyuxue/chuanyuxue/blob/output/github-contribution-grid-snake.svg)
