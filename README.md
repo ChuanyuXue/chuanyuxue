@@ -2,9 +2,10 @@
 
 🧑🏽‍💻 I am currently working on the following projects:
 
-- 🔬 R&D on Time-Sensitive Networking: 
-    1. [TSNKit](https://github.com/ChuanyuXue/tsnkit): A scheduling and benchmark toolkit for Time-Sensitive Networking in Python.
-    2. [RtGen-TC](https://github.com/ChuanyuXue/RPiTSN)/[RtGen-DPDK](https://github.com/ChuanyuXue/rtgen-dpdk): A deterministic traffic generator based on kernel/DPDK and NIC offloading function.
+- 🔬 R&D on Time-Sensitive Networking:
+    1. [KeepON](https://github.com/ChuanyuXue/KeepON-rpi): A driver model to support deterministic traffic on standard NICs
+    2. [TSNKit](https://github.com/ChuanyuXue/tsnkit): A scheduling and benchmark toolkit for Time-Sensitive Networking in Python.
+    3. [RtGen-TC](https://github.com/ChuanyuXue/RPiTSN)/[RtGen-DPDK](https://github.com/ChuanyuXue/rtgen-dpdk): A deterministic traffic generator based on kernel/DPDK and NIC offloading function.
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat
 
 🤷 Some small projects from me:
