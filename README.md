@@ -13,11 +13,8 @@
 - 🧸 [Learning Python the Smart Way](https://github.com/datawhalechina/learn-python-the-smart-way): An efficient and joyful way to learn Python language \[中文\]
 - 📈 [udp-latency](https://github.com/ChuanyuXue/udp-latency): A tiny end-to-end latency testing tool implemented by UDP protocol in Python
 - 📐 [mvtest](https://github.com/ChuanyuXue/MVTest): A Distribution-Free Test of Independence Based on Mean Variance Index
-- 🐶 [doit4u](https://github.com/ChuanyuXue/doit4u): ChatGPT based natural language hybrid Python programming
-- 🦭 [sealhacker](https://github.com/ChuanyuXue/sealhacker): Extracting seal with Python OpenCV.
 - 🎨 [Morandi palette](https://medium.com/@skewcy/hackers-and-painters-crafting-an-academic-color-palette-inspired-by-giorgio-morandi-c1cb792f8b74): 18 colors palette inspired by Giorgio Morandi
 - 🖨️ [pyvim](https://github.com/ChuanyuXue/pyvim) Vim emulator in pure Python
-- 📧 [1mail](https://github.com/ChuanyuXue/1mail) Email agent based on OpenAI API and Github Action
 
 
 ![Snake animation](https://github.com/chuanyuxue/chuanyuxue/blob/output/github-contribution-grid-snake.svg)
