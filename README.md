@@ -16,6 +16,6 @@
 - 🎨 [Morandi palette](https://medium.com/@skewcy/hackers-and-painters-crafting-an-academic-color-palette-inspired-by-giorgio-morandi-c1cb792f8b74): 18 colors palette inspired by Giorgio Morandi.
 - 🖨️ [pyvim](https://github.com/ChuanyuXue/pyvim) Vim emulator in pure Python.
 - 🍋 [Fruittoeat](https://apps.apple.com/us/app/fruittoeat/id6499253474): An ios APP helps you track and decide what fruit to eat \[Apple Store\].
-- 📟 [x-15.io](x-15.io): See your Apple Health data in browser with native Cloudkit support \[Apple Store\].
+- 📟 [x-15.io](https://x-15.io): See your Apple Health data in browser with native Cloudkit support \[Apple Store\].
 
 ![Snake animation](https://github.com/chuanyuxue/chuanyuxue/blob/output/github-contribution-grid-snake.svg)
