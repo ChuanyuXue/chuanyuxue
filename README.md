@@ -3,7 +3,7 @@
 🧑🏽‍💻 R&D on Real-Time System and its applications:
 
 - 🔬 Time-Sensitive Networking:
-    1. [KeepON](https://github.com/ChuanyuXue/KeepON-rpi): A driver model to support __ns-level deterministic traffic__ on __arbitrary NICs__.
+    1. [KeepON](https://github.com/ChuanyuXue/KeepON-rpi): A driver model to support ns-level deterministic traffic on arbitrary NICs.
     2. [TSNKit](https://github.com/ChuanyuXue/tsnkit): A scheduling and benchmark toolkit for Time-Sensitive Networking in Python.
     3. [rtgen-kernel](https://github.com/ChuanyuXue/RPiTSN)/[rtgen-dpdk](https://github.com/ChuanyuXue/rtgen-dpdk): A deterministic traffic generator based on kernel/DPDK and NIC offloading function.
 - 🪐 [NASA-RETHi-DataSystem](https://github.com/ChuanyuXue/NASA-RETHi-DataService): Developing Resilient Extra-Terrestrial Habitat.
